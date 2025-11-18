@@ -1,5 +1,11 @@
-## Hi there 👋
+## Servus 👋
 
+Hi there! I'm F13, an aspiring IT specialist for application development with a passion for everything to do with programming and technology. I love implementing new projects on Raspberry Pi, Arduino, and ESP32, and I'm constantly expanding my skills in Python, C#, .NET MAUI, and microcontroller programming.
+
+I enjoy working on small gadgets, automation, and app development, as well as trying out new technologies.
+
+My first public project was a software for a streamdeck I initially build with a friend of mine.
+[Arduino-Streamdeck](https://github.com/F13bubble/Arduino-Streamdeck)
 <!--
 **F13bubble/F13bubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F13bubble)](https://github.com/anuraghazra/github-readme-stats)
