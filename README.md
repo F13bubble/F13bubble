@@ -26,6 +26,6 @@
 ---
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f13bubble&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=333333&locale=de" alt="f13bubble" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f13bubble&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=333333&locale=en" alt="f13bubble" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=f13bubble&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="f13bubble" /></p>
 </div>
