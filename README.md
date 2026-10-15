@@ -1,7 +1,6 @@
 <h1 align="center">Servus 👋, I'm Luca Mauro</h1>
 <h4 align="center">I'm Luca Mauro, an aspiring IT specialist for application development with a passion for everything to do with programming and technology. I love implementing new projects on Raspberry Pi, Arduino, and ESP32, and I'm constantly expanding my skills in Python, C#, .NET MAUI, and microcontroller programming.<br> I enjoy working on small gadgets, automation, and app development, as well as trying out new technologies.</h4>
 
-- 🔭 I’m currently working on a sports-team-management-tool
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
